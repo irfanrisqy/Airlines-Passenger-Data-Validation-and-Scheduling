@@ -1,0 +1,11 @@
+1. Jelaskan apa yang kalian ketahui dari Airflow menggunakan pemahaman yang kalian ketahui!
+Jawaban:
+Airflow adalah alat open-source yang digunakan untuk mengatur, menjadwalkan, dan memantau alur kerja (workflow) dalam pengolahan data dan otomasi tugas-tugas. Airflow dapat membantu  membuat serangkaian langkah-langkah atau tugas yang harus dilakukan dalam urutan tertentu. Airflow menyediakan lingkungan yang mudah dipahami dan dikelola untuk menjalankan tugas-tugas ini secara otomatis sesuai dengan jadwal yang ditentukan. Dengan menggunakan Airflow kita dapat dengan mudah mengelola alur kerja yang kompleks, menghindari kegagalan tugas, dan melacak kinerja tugas-tugas tersebut.
+
+2. Jelaskan apa yang kalian ketahui dari Great Expectations menggunakan pemahaman yang kalian ketahui!
+Jawaban:
+Great Expectations adalah perangkat lunak open-source yang digunakan untuk menguji dan memvalidasi data dalam proyek analisis data. Dengan Great Expectations, kita dapat menetapkan aturan atau "ekspektasi" terhadap data, seperti tipe data, nilai minimum/maximum, atau pola teks yang harus dipenuhi oleh data. Kemudian, perangkat ini dapat digunakan untuk menguji apakah data aktual sesuai dengan ekspektasi yang telah ditetapkan. Jika ada penyimpangan, Great Expectations akan memberikan laporan kesalahan yang membantu kita mengidentifikasi dan memperbaiki masalah dalam data.
+
+3. Jelaskan apa yang kalian ketahui dari Batch Processing menggunakan pemahaman yang kalian ketahui!
+Jawaban: 
+Batch processing adalah cara untuk memproses sejumlah besar data atau tugas dalam satu waktu tertentu, biasanya dalam kelompok atau "batch." Ini berarti data atau tugas dikumpulkan, diolah, dan dieksekusi dalam grup yang besar, bukan secara individual atau langsung secara realtime.
